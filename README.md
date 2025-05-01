@@ -1,14 +1,8 @@
-Working on a predictive model lately incorporating some new techniques with dealing with overfitting
 
-I`m currently learning LLMs, furthering my skills on using NLP
 
 
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f624151483757584b717449427250733773522f67697068792e676966](https://github.com/user-attachments/assets/304a04b2-07be-4ecf-aac6-0d039ee0ccd0)
 
-
-🏎️ Fun Fact:
-
-Formula 1 might just become Formula Data. With every lap, season, and pit stop, data isn’t just helping — it’s driving. From race predictions to weather insights, we're inching closer to flawless forecasts and strategic perfection. Who needs luck when you’ve got machine learning?  (Just a wild thought... or maybe the future?, haha)
 
 # 💫 About Me:
 Hi, my name is <b>Nigel Mwangi</b>, I’m a passionate and performance-driven data scientist with a knack for transforming complex data into clear, actionable insights. With hands-on expertise in Python, R, and machine learning, I don’t just analyze data — I turn it into strategy. I bridge the gap between technical depth and business impact, communicating findings that resonate with both executives and teams on the ground. I thrive in fast-paced, collaborative environments and am constantly exploring emerging trends to stay ahead of the curve. Fueled by curiosity and a team-first mindset, I’m ready to bring bold, data-backed solutions to organizations that value innovation and smart decision-making.
